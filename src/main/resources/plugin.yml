@@ -1,0 +1,10 @@
+name: BuildingArea
+version: 1
+main: eu.felix.buildarea.BuildArea
+authors: [ Felix1337 ]
+description: Just a plugin for block deleting
+
+commands:
+  buildarea:
+    description: Handle commands for BuildArea
+    usage: /<command>
